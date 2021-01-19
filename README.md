@@ -9,3 +9,9 @@ This is my portfolio website. Here you will find my projects and tutorials.
 - Languages:- 
   - Python
   - C/C+
+  
+
+#### TO DO
+* Maths (Bio/Hist/Famous formula discussion)
+* Consulting (Updated for career/ML/Communication)
+* Others (Essay writing)
