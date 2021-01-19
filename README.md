@@ -12,6 +12,7 @@ This is my portfolio website. Here you will find my projects and tutorials.
   
 
 #### TO DO
+*Try to use Latex/doc wherever possible*
 * Maths (Bio/Hist/Famous formula discussion)
 * Consulting (Updated for career/ML/Communication)
 * Others (Essay writing)
