@@ -8,7 +8,7 @@ This is one of the simple algorithm. In this article, we will learn how actually
 In short, Linear regression is one of the linear modelling approach which map independent variable to dependent variable where dependent variable is continuous in nature.
 Below figure is the illustration.
 
-![Image](E:\Github\rahulrajaero.github.io\blogs\Linear Regression\lr1)
+![Linear Regression Image](E:\Github\rahulrajaero.github.io\blogs\Linear Regression\lr1.JPG)
 
 Linear Regression algorithm help us to find the equation of that trend-line (Red line). Let's equation be 
 $$
@@ -43,9 +43,9 @@ Here is the snapshot of dataset with shape = (28007, 62)
 There are two ways to find the weight: - 
 
 1.  **Analytical Formula,** 
-   
-   
-   $$
+
+
+$$
    Y_{M} = 
    \begin{pmatrix}
    1 & x_1^1 & x_2^1 & \cdots & x_n^1 \\
@@ -60,9 +60,9 @@ There are two ways to find the weight: -
    Y = X\theta^T 
    \\~\\
    J(\theta) = 1/2 (X\theta^T - Y)^T(X\theta^T - Y)
-   $$
-   
-   
+$$
+
+
     After minimizing this cost function, we arrive at following estimate
 
 $$
@@ -97,23 +97,16 @@ $$
 
 ### Implementation in Python:
 
-
-
- 
-
+[Here you will find the python notebook.](ab.com)
 
 
 
 
 
-
-
-
-
-
-
+For any comment you can reach out to me via LinkedIn.
 
 Ref:-
 
 * [StackExchange](#https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution)
-* f
+
+  
